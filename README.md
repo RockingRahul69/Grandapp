@@ -24,8 +24,9 @@ The frontend uses Freighter for wallet access and transaction signing, while rea
 
 | Item | Value |
 |---|---|
-| Freighter wallet address | User-selected Freighter account |
+| Freighter wallet address | Connected Freighter account at runtime |
 | Contract ID | `CAKKJJ5OC7DSWVUI4L2PC5Z2BNV5FEVWFW6IAOB4SHMKHQN6WDJBUNJI` |
+| Freighter read wallet | `GA5RGDUJLRXZ2COOA4WBV4PB3PO7GDVPBWNNZVXKSHWA6GQNS5WYK467` |
 | Network | Stellar Testnet |
 | Soroban RPC | `https://soroban-testnet.stellar.org` |
 | Stellar Expert contract page | https://stellar.expert/explorer/testnet/contract/CAKKJJ5OC7DSWVUI4L2PC5Z2BNV5FEVWFW6IAOB4SHMKHQN6WDJBUNJI |
